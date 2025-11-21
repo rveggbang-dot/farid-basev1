@@ -1,0 +1,11 @@
+{
+  "driver": "json",
+  "path": "./database/data",
+  "tables": [
+    "users",
+    "chats", 
+    "messages",
+    "groups",
+    "stats"
+  ]
+}
